@@ -1,0 +1,4 @@
+export const INCREMENT = `INCREMENT`
+export const DECREMENT = `DECREMENT`
+export const REMOVE_ITEMS = `REMOVE_ITEMS`
+export const CART_QUANTITY = `CART_QUANTITY`

@@ -1,0 +1,154 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(30 27 43);
+    color: white;
+    height: 73px;
+    width: 100%;
+}
+.nav ul {
+    /* float: right; */
+    margin-right: 26px;
+    width: 100%;
+}
+.nav ul .link {
+    display: inline-block;
+    position: relative;
+}
+.navlink {
+    font-size: 20px;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+
+} 
+#cart-id {
+    background-color: transparent;
+    border: none;
+}
+.links {
+    padding: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navlink.active {
+    border-bottom: 2px solid white;
+}
+.icon {
+    float: right;
+    padding: 12px;
+    cursor: pointer;
+    display: none;
+}
+.header {
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 80px;
+    font-family:'Pacifico', cursive;
+    font-size: 25px !important;
+}
+.cart {
+    list-style: none;
+}
+.number {
+    background: white;
+    border: 2px solid white;
+    position: absolute;
+    top: 4px;
+    font-size: 10px;
+    color: black;
+    padding: 3px;
+    width: 23px;
+    left: 31px;
+}
+.number::before {
+    content: '';
+    position: absolute;
+    border: 5px solid transparent;
+    border-right-color: white;
+    right: 21px;
+    top: 6px;
+}
+.li-close {
+    list-style: none;
+    display: none;
+}
+.closeButton {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: #dc3545;
+    display: none;
+}
+@media  (max-width : 858px) and (min-width:320px){
+    .li-close {
+        display: block;
+    }
+    .number {
+        top: 2px;
+        left: 30px;
+    }
+    .close-icons {
+        display: none;
+    }
+    .header {
+        font-size: 20px;
+    }
+    .icon {
+        display: block;
+    }
+    .links  {
+        position: relative;
+    }
+    .links ul {
+        display: none;
+    }
+    .links.toggle ul {
+        display: block;
+    }
+    .links.toggle ul {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        left: 0px;
+        top: 73px;
+        background-color: rgb(46 39 78);
+        padding: 12px;
+        border-radius: 4px;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.4);
+        z-index: 9999;
+        text-align: center;
+    }
+    .links ul .link {
+        display: block;
+        margin: 20px;
+    }
+    .cart-link {
+        position: relative;
+    }
+    .closeButton {
+        display: block;
+    }
+    .navlink.active {
+        border-bottom: none;
+    }
+    .closeButton {
+        display: block;
+    }
+}
+
+
+/* .links ul {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(14, 13, 19);
+    top: 75px;
+    left: 0;
+    text-align: center;
+    color: white;
+} */
