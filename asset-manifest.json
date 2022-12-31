@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Shopping-Redux-Reduxtoolkit/static/css/main.915d023e.css",
+    "main.js": "/Shopping-Redux-Reduxtoolkit/static/js/main.545c666a.js",
+    "static/media/highqualityBG.mp4": "/Shopping-Redux-Reduxtoolkit/static/media/highqualityBG.069078351f5c0b1dcfbc.mp4",
+    "static/media/albion.png": "/Shopping-Redux-Reduxtoolkit/static/media/albion.b3acd4c6b9bad88ef899.png",
+    "static/media/logo2.png": "/Shopping-Redux-Reduxtoolkit/static/media/logo2.1d05c85a0cae0cf28b03.png",
+    "static/media/wow.png": "/Shopping-Redux-Reduxtoolkit/static/media/wow.e70e969520ba4ea40fd6.png",
+    "static/media/first.jpg": "/Shopping-Redux-Reduxtoolkit/static/media/first.9e89500d273075d4c7aa.jpg",
+    "static/media/blackdesert.jpg": "/Shopping-Redux-Reduxtoolkit/static/media/blackdesert.dfc0824e6d96b0e68d93.jpg",
+    "static/media/csgo.png": "/Shopping-Redux-Reduxtoolkit/static/media/csgo.9949b0c6c7007d61eedf.png",
+    "static/media/everwinter.png": "/Shopping-Redux-Reduxtoolkit/static/media/everwinter.d1ec4d621eab73b091ed.png",
+    "static/media/diablo.png": "/Shopping-Redux-Reduxtoolkit/static/media/diablo.fcb8642eea1de52a3c2c.png",
+    "static/media/fifth.jpg": "/Shopping-Redux-Reduxtoolkit/static/media/fifth.e1e9f6a34d3a28fbdea6.jpg",
+    "static/media/battlefield.jpg": "/Shopping-Redux-Reduxtoolkit/static/media/battlefield.940b7bd378078096f60f.jpg",
+    "static/media/assassin.png": "/Shopping-Redux-Reduxtoolkit/static/media/assassin.44cba14d8e0475906b9d.png",
+    "static/media/ever1.jpg": "/Shopping-Redux-Reduxtoolkit/static/media/ever1.ac265939e18bc4c6c21d.jpg",
+    "static/media/albion3.png": "/Shopping-Redux-Reduxtoolkit/static/media/albion3.d4d0215df0798a18c56a.png",
+    "static/media/albion5.png": "/Shopping-Redux-Reduxtoolkit/static/media/albion5.0404aa51db1a3f168cdb.png",
+    "static/media/Mount.png": "/Shopping-Redux-Reduxtoolkit/static/media/Mount.2724c27476195df5d3b2.png",
+    "static/media/apex.png": "/Shopping-Redux-Reduxtoolkit/static/media/apex.e0c3976480a34bfe6273.png",
+    "static/media/valorant.png": "/Shopping-Redux-Reduxtoolkit/static/media/valorant.6c7fef77280fe53c22a5.png",
+    "static/media/albion4.png": "/Shopping-Redux-Reduxtoolkit/static/media/albion4.2452498686686d2f2c0e.png",
+    "static/media/eldenring.jpg": "/Shopping-Redux-Reduxtoolkit/static/media/eldenring.1833fd76c39586a8edde.jpg",
+    "static/media/albion1.png": "/Shopping-Redux-Reduxtoolkit/static/media/albion1.bfc0258871324e3ce8c9.png",
+    "static/media/third.jfif": "/Shopping-Redux-Reduxtoolkit/static/media/third.65cf0ccdf0aa540e5ca2.jfif",
+    "static/media/fourth.jfif": "/Shopping-Redux-Reduxtoolkit/static/media/fourth.5efd48ee3acd94c7a80d.jfif",
+    "static/media/second.jfif": "/Shopping-Redux-Reduxtoolkit/static/media/second.8a0351a55aea8625ca7b.jfif",
+    "static/media/albion2.jfif": "/Shopping-Redux-Reduxtoolkit/static/media/albion2.911e30049a1f4d270198.jfif",
+    "index.html": "/Shopping-Redux-Reduxtoolkit/index.html",
+    "main.915d023e.css.map": "/Shopping-Redux-Reduxtoolkit/static/css/main.915d023e.css.map",
+    "main.545c666a.js.map": "/Shopping-Redux-Reduxtoolkit/static/js/main.545c666a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915d023e.css",
+    "static/js/main.545c666a.js"
+  ]
+}
